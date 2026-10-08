@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection
 
+![Fraud Detection Streamlit Demo](images/fraud_detection_demo.png)
+
 An end-to-end machine learning system for detecting fraudulent credit card transactions using **Random Forest**, with a **FastAPI REST API**, **Docker deployment**, and an interactive **Streamlit interface**.
 
 ## 📌 Project Overview
